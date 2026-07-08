@@ -1,4 +1,4 @@
-👋 Hi, I'm Maxwell!<br><br>💻 B.Tech Information Technology Student<br>🤖 AI & Machine Learning<br>🌐 Full-Stack Development<br>☁️ Backend & Cloud Enthusiast<br>🚀 Open to Building Innovative Solutions<br><br>I enjoy creating software that combines intelligent systems with clean, scalable development. Whether it's AI, backend engineering, or full-stack applications, I love solving challenging problems and building projects with real-world impact.
+👋 Hi, I'm Maxwell Mathew!<br><br>💻 B.Tech Information Technology Student<br>🤖 AI & Machine Learning<br>🌐 Full-Stack Development<br>☁️ Backend & Cloud Enthusiast<br>🚀 Open to Building Innovative Solutions<br><br>I enjoy creating software that combines intelligent systems with clean, scalable development. Whether it's AI, backend engineering, or full-stack applications, I love solving challenging problems and building projects with real-world impact.
 
 
 ##  Socials:
