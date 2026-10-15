@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-### I like building software that solves real problems — and understanding how it works under the hood.
+### Curious about how things work. Usually found trying to build them.
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ## `01` / ABOUT
 
-I'm an Information Technology engineering student focused on **AI engineering, applied machine learning, and backend/software development**. I enjoy the full journey from problem definition and data preparation to model evaluation, API development, and a usable application.
+I'm an B.E Information Technology engineering student focused on **AI engineering, applied machine learning, and backend/software development**. I enjoy the full journey from problem definition and data preparation to model evaluation, API development, and a usable application.
 
 I care about building things that are understandable, testable, and useful — not just demos that look good in a screenshot.
 
@@ -103,8 +103,6 @@ A computer-vision project exploring railway defect detection and severity assess
 
 <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" alt="Python and PyTorch" />
 <br/>
-<img src="https://img.shields.io/badge/YOLO-Object_Detection-173B29?style=flat-square&logoColor=white" alt="YOLO object detection" />
-<img src="https://img.shields.io/badge/Fuzzy_Logic-Severity_Assessment-173B29?style=flat-square" alt="Fuzzy logic severity assessment" />
 
 [Explore repositories ↗](https://github.com/Maxwell343?tab=repositories)
 
@@ -133,7 +131,6 @@ A full-stack AI project showcasing the connection between an interactive fronten
 
 </div>
 
-<sub>Technology icons are loaded from Skill Icons. Project links currently point to the repository list; replace each with the direct public repository URL. For CodeRed AI, adjust the description and stack icons if its actual implementation uses different technologies.</sub>
 
 ---
 
