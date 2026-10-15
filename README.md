@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="assets/elite-header.svg" alt="Maxwell Mathew — AI/ML, computer vision, software systems" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/Maxwell343/Maxwell343/main/elite-header.svg" alt="Maxwell Mathew — AI/ML Engineering" width="100%"/>
 <br/>
 
 [**Projects**](https://github.com/Maxwell343?tab=repositories) &nbsp;·&nbsp;
