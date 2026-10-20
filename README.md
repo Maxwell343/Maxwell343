@@ -47,29 +47,13 @@ My loop is simple: **understand → build → measure → improve.** I value sys
 
 ## `05 / TOOLCHAIN`
 
-**Core Languages**  
-![Python](https://img.shields.io/badge/Python-141414?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-141414?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-141414?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-141414?style=flat-square&logo=javascript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-141414?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-141414?style=flat-square&logo=databricks&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,java,ts,js,cpp,pytorch,sklearn&theme=dark" alt="Languages & ML" />
+</p>
 
-**Machine Learning & Vision**  
-![PyTorch](https://img.shields.io/badge/PyTorch-141414?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-141414?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![YOLO](https://img.shields.io/badge/Ultralytics_YOLO-141414?style=flat-square&logo=target&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-141414?style=flat-square&logo=yandex&logoColor=FFCC00)
-
-**Backend, Web & Data**  
-![FastAPI](https://img.shields.io/badge/FastAPI-141414?style=flat-square&logo=fastapi&logoColor=009688)
-![Next.js](https://img.shields.io/badge/Next.js-141414?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-141414?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-141414?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Supabase](https://img.shields.io/badge/Supabase-141414?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![MongoDB](https://img.shields.io/badge/MongoDB-141414?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-141414?style=flat-square&logo=mysql&logoColor=4479A1)
-![Git](https://img.shields.io/badge/Git-141414?style=flat-square&logo=git&logoColor=F05032)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,mongodb,mysql,postgres,supabase,git&theme=dark" alt="Web & Databases" />
+</p>
 
 
 ## `06 / CONTACT`
