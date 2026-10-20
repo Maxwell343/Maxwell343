@@ -2,9 +2,6 @@
 
 <img src="./hero.svg" alt="Maxwell Mathew — Aspiring AI Engineer" width="100%"/>
 </div>
-
----
-
 <img src="./focus-map.svg" alt="Engineering operating model" width="100%"/>
 
 ## `01 / FIELD NOTES`
