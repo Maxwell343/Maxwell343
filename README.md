@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Maxwell Mathew — Terminal Architect" width="100%"/>
+<img src="./assets/hero.svg" alt="Maxwell Mathew — AI Engineer" width="100%"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Maxwell343-72FFA7?style=flat-square&labelColor=050907)](https://github.com/Maxwell343)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFB454?style=flat-square&labelColor=050907)](https://www.linkedin.com/in/maxwell-mathew-97961b2b7)
