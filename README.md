@@ -114,14 +114,3 @@ GitHub: [@Maxwell343](https://github.com/Maxwell343)
 </div>
 
 
-
-## `06 / CONTACT`
-
-Portfolio: [ptfl-1-three.vercel.app](https://ptfl-1-three.vercel.app/)  
-LinkedIn: [Maxwell Mathew](https://www.linkedin.com/in/maxwell-mathew-97961b2b7)  
-GitHub: [@Maxwell343](https://github.com/Maxwell343)
-
-<div align="center">
-<img src="./footer.svg" alt="End of engineering log" width="100%"/>
-</div>
-
