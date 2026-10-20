@@ -1,13 +1,6 @@
 <div align="center">
 
 <img src="./hero.svg" alt="Maxwell Mathew — Aspiring AI Engineer" width="100%"/>
-
-<a href="https://github.com/Maxwell343">GITHUB</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/maxwell-mathew-97961b2b7">LINKEDIN</a> &nbsp; / &nbsp; <a href="https://ptfl-1-three.vercel.app/">PORTFOLIO</a>
-
-**AI ENGINEERING / APPLIED ML / BACKEND SYSTEMS / FULLSTACK ENGINEERING**
-
-*Less wondering, more prototyping. Building what I wish existed.*
-
 </div>
 
 ---
@@ -77,11 +70,13 @@ My loop is simple: **understand → build → measure → improve.** I value sys
 </div>
 
 ### `03 / OTHER BUILDS`
+Annam — Food Rescue Platform An intelligent food rescue ecosystem connecting farmers, NGOs, and logistics partners to reduce food waste through machine learning and real-time dispatching.
 
-- [Annam — Food Rescue Platform](https://github.com/Maxwell343/Annam-foodcrops_rescue_platform)
-- [TransitOps — Logistics & Fleet Command Surface](https://github.com/Maxwell343/TransitOps-Logistics_and_Fleet_Command_Surface)
-- [Soundwave — Musical Instruments Platform](https://github.com/Maxwell343/Soundwave_Musical_Instruments_Platform)
-- [Livify — Home Rental Platform](https://github.com/Maxwell343/Livify--Home_Rental_Platform)
+TransitOps — Logistics & Fleet Command Surface A fleet management and supply chain platform featuring vehicle tracking, route dispatching, predictive maintenance, and role-based operational management.
+
+Soundwave — Musical Instruments Platform A React-based e-commerce platform for classical Indian musical instruments, featuring an interactive product catalogue and a streamlined shopping experience.
+
+Livify — Home Rental Platform A home rental platform connecting property owners and tenants through property listings, advanced search, and a user-friendly rental experience.
 
 ## `04 / EXPERIENCE & MILESTONES`
 
