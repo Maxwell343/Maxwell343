@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Maxwell Mathew — Redline identity strip</title>
+<desc id="desc">A cinematic black and crimson engineering identity strip showing AI engineering, applied machine learning, backend systems, full-stack engineering, and the motto: Less wondering, more prototyping. Building what I wish existed.</desc>
+<defs>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#25282D" stroke-width=".7"/></pattern>
+  <linearGradient id="redwash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FF243B" stop-opacity=".20"/><stop offset="1" stop-color="#FF243B" stop-opacity="0"/></linearGradient>
+  <linearGradient id="linefade" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FF243B" stop-opacity="0"/><stop offset=".25" stop-color="#FF243B"/><stop offset=".75" stop-color="#FF243B"/><stop offset="1" stop-color="#FF243B" stop-opacity="0"/></linearGradient>
+  <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="frame"><rect x="8" y="8" width="1184" height="284" rx="10"/></clipPath>
+</defs>
+<rect width="1200" height="300" rx="12" fill="#050608"/>
+<g clip-path="url(#frame)">
+  <rect x="8" y="8" width="1184" height="284" rx="10" fill="#090A0D" stroke="#363238"/>
+  <rect x="8" y="8" width="1184" height="284" fill="url(#grid)" opacity=".7"/>
+  <path d="M8 8H420L300 125H8Z" fill="url(#redwash)"/>
+  <path d="M1192 292H935L1090 137H1192Z" fill="#FF243B" opacity=".05"/>
+  <path d="M24 38H1176" stroke="#29272C"/>
+  <path d="M24 39H265" stroke="#FF243B" stroke-width="1.4"/>
+  <g font-family="monospace" font-size="10" letter-spacing="2.3">
+    <text x="34" y="28" fill="#F1F1F1">MAXWELL343</text>
+    <text x="144" y="28" fill="#FF243B">//</text>
+    <text x="171" y="28" fill="#8F9299">IDENTITY PROTOCOL</text>
+    <text x="1166" y="28" text-anchor="end" fill="#8F9299">PROFILE MODULE / 001</text>
+  </g>
+  <g stroke="#FF243B" fill="none" stroke-width="1.2" opacity=".95">
+    <path d="M31 64V91H58"/><path d="M1169 64V91H1142"/>
+    <path d="M31 235V208H58"/><path d="M1169 235V208H1142"/>
+    <path d="M600 48V61M594 54H606"/><path d="M600 239V252M594 245H606"/>
+  </g>
+  <g fill="#FF243B" opacity=".9">
+    <rect x="46" y="105" width="3" height="57"/><rect x="46" y="169" width="3" height="10" opacity=".35"/>
+    <rect x="1151" y="105" width="3" height="57"/><rect x="1151" y="169" width="3" height="10" opacity=".35"/>
+  </g>
+  <g font-family="monospace" font-size="10" letter-spacing="1.8" fill="#A4A5AA">
+    <text x="68" y="72">ENGINEERING FOCUS</text>
+    <text x="1132" y="72" text-anchor="end">LESS TALK / MORE BUILDS</text>
+  </g>
+  <g transform="translate(68 88)">
+    <rect width="247" height="31" rx="3" fill="#111115" stroke="#61202A"/>
+    <rect width="3" height="31" fill="#FF243B"/>
+    <text x="15" y="20" font-family="monospace" font-size="11" letter-spacing="1.1" fill="#F5F5F6">AI ENGINEERING</text>
+    <text x="226" y="20" text-anchor="end" font-family="monospace" font-size="9" fill="#FF243B">01</text>
+  </g>
+  <g transform="translate(325 88)">
+    <rect width="247" height="31" rx="3" fill="#111115" stroke="#3D252B"/>
+    <rect width="3" height="31" fill="#C91D31"/>
+    <text x="15" y="20" font-family="monospace" font-size="11" letter-spacing="1.1" fill="#F5F5F6">APPLIED ML</text>
+    <text x="226" y="20" text-anchor="end" font-family="monospace" font-size="9" fill="#FF243B">02</text>
+  </g>
+  <g transform="translate(582 88)">
+    <rect width="247" height="31" rx="3" fill="#111115" stroke="#3D252B"/>
+    <rect width="3" height="31" fill="#C91D31"/>
+    <text x="15" y="20" font-family="monospace" font-size="11" letter-spacing="1.1" fill="#F5F5F6">BACKEND SYSTEMS</text>
+    <text x="226" y="20" text-anchor="end" font-family="monospace" font-size="9" fill="#FF243B">03</text>
+  </g>
+  <g transform="translate(839 88)">
+    <rect width="293" height="31" rx="3" fill="#111115" stroke="#61202A"/>
+    <rect width="3" height="31" fill="#FF243B"/>
+    <text x="15" y="20" font-family="monospace" font-size="11" letter-spacing="1.1" fill="#F5F5F6">FULL-STACK ENGINEERING</text>
+    <text x="272" y="20" text-anchor="end" font-family="monospace" font-size="9" fill="#FF243B">04</text>
+  </g>
+  <path d="M68 136H1132" stroke="#30242A"/>
+  <text x="570" y="177" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="800" letter-spacing=".5" fill="#F3F3F4">LESS WONDERING.</text><text x="590" y="177" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="800" letter-spacing=".5" fill="#FF243B">MORE PROTOTYPING.</text>
+  <text x="600" y="207" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="500" letter-spacing="1.3" fill="#B8B8BE">BUILDING WHAT I WISH EXISTED<span fill="#FF243B">.</span></text>
+  <path d="M300 229H900" stroke="url(#linefade)" stroke-width="1.2"/>
+  <g font-family="monospace" font-size="9" letter-spacing="1.5">
+    <text x="68" y="256" fill="#777A82">MINDSET</text>
+    <text x="68" y="272" fill="#F0F0F2">IDEA <tspan fill="#FF243B">→</tspan> BUILD <tspan fill="#FF243B">→</tspan> MEASURE <tspan fill="#FF243B">→</tspan> ITERATE</text>
+    <text x="1132" y="256" text-anchor="end" fill="#777A82">STATUS</text>
+    <text x="1132" y="272" text-anchor="end" fill="#FF243B">SHIPPING USEFUL THINGS / ACTIVE</text>
+  </g>
+  <g transform="translate(600 245)" filter="url(#glow)"><circle r="3" fill="#FF243B"><animate attributeName="opacity" values="1;.35;1" dur="1.7s" repeatCount="indefinite"/></circle></g>
+  <rect x="8" y="8" width="4" height="45" fill="#FF243B"/><rect x="1188" y="247" width="4" height="45" fill="#FF243B"/>
+</g>
+</svg>
