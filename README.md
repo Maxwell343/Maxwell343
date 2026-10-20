@@ -1,231 +1,89 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Maxwell343/Maxwell343/main/elite-header.svg" alt="Maxwell Mathew — AI engineering, ML systems, backend software"/>
+<img src="./assets/hero.svg" alt="Maxwell Mathew — Terminal Architect" width="100%"/>
 
-<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-Maxwell343-72FFA7?style=flat-square&labelColor=050907)](https://github.com/Maxwell343)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFB454?style=flat-square&labelColor=050907)](https://www.linkedin.com/in/maxwell-mathew-97961b2b7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Open-72FFA7?style=flat-square&labelColor=050907)](https://ptfl-1-three.vercel.app/)
 
-<a href="https://github.com/Maxwell343?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-123B27?style=for-the-badge&logo=github&logoColor=9BFFBD" alt="Explore projects"/></a>
-<a href="https://github.com/Maxwell343"><img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML%20%2F%20SDE-0B1710?style=for-the-badge&logo=code&logoColor=9BFFBD" alt="AI, ML, SDE"/></a>
+**AI engineering · Applied machine learning · Backend systems · Product engineering**
 
-<br/><br/>
-
-### Curious about how things work. Usually found trying to build them.
+*Curious about how things work. Usually found trying to build them.*
 
 </div>
 
 ---
 
-<div align="center">
+<img src="./assets/focus-map.svg" alt="Engineering focus map" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=750&color=8BFFB0&center=true&vCenter=true&width=780&lines=AI+Engineering+%26+Applied+Machine+Learning;Backend+Engineering+%26+Software+Development;Building%2C+testing%2C+measuring%2C+improving;Curious+about+systems+that+scale+and+serve" alt="Areas of interest"/>
+## `01 / FIELD NOTES`
 
-</div>
+I'm a B.E. Information Technology student focused on building useful software across the ML lifecycle — from data preparation and model evaluation to APIs and usable applications.
 
-## `01` / ABOUT
+I care about systems that are understandable, testable, and measurable. My usual loop is simple: **understand → build → evaluate → iterate**.
 
-I'm an B.E Information Technology engineering student focused on **AI engineering, applied machine learning, and backend/software development**. I enjoy the full journey from problem definition and data preparation to model evaluation, API development, and a usable application.
+- **AI / ML:** applied predictive modelling and practical ML workflows
+- **Computer vision:** object detection, evaluation, and inspection-oriented applications
+- **Backend systems:** API design, integration, and inference workflows
+- **Product engineering:** connecting technical work to a useful end-user experience
 
-I care about building things that are understandable, testable, and useful — not just demos that look good in a screenshot.
-
-- **AI / ML:** model development, evaluation, and practical ML applications
-- **Software engineering:** backend APIs, data-driven applications, and clean implementation
-- **Systems curiosity:** inference workflows, resource management, and reliability
-- **Learning style:** build a baseline, measure it, find the bottleneck, improve it
-
-```text
-INTERESTS  →  AI engineering · ML systems · backend · SDE
-WORKFLOW   →  understand → build → evaluate → iterate
-PRINCIPLE  →  useful software over unnecessary complexity
-```
-
-## `02` / SELECTED PROJECTS
+## `02 / SELECTED BUILDS`
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ AI / ML
-
-#### Nirogya
-
-**Healthcare-focused predictive ML**
-
-Selected for the **Smart India Hackathon 2025 Grand Finale**.
-
-- CatBoost predictive modelling
-- FastAPI backend
-- React / TypeScript frontend
-- MongoDB integration
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,mongodb&theme=dark" alt="Python, FastAPI, React, MongoDB" />
-
-[Explore repositories ↗](https://github.com/Maxwell343?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ SOFTWARE & PRODUCT ENGINEERING
-
-#### StudyOS
-
-**Personal study management and analytics**
-
-A study workspace for planning, focused sessions, and progress tracking.
-
-- Plan-tomorrow workflow
-- Daily mission and session timer
-- Calendar and analytics workspace
-- Persistent data-backed experience
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,supabase&theme=dark" alt="Next.js, TypeScript, Supabase" />
-
-[Explore repositories ↗](https://github.com/Maxwell343?tab=repositories)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ COMPUTER VISION
-
-#### RailGuard AI
-
-**Railway track defect detection**
-
-A computer-vision project exploring railway defect detection and severity assessment.
-
-- YOLO-based object detection workflow
-- Dataset preparation and model evaluation
-- Fuzzy-logic severity assessment
-- Inspection-oriented interface
-
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" alt="Python and PyTorch" />
-<br/>
-
-[Explore repositories ↗](https://github.com/Maxwell343?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ FULL-STACK DEVELOPMENT
-
-#### CodeRed AI
-
-**AI-powered application**
-
-A full-stack AI project showcasing the connection between an interactive frontend and an AI-backed workflow.
-
-- Application-focused user experience
-- Frontend-to-backend integration
-- AI functionality within a usable product
-
-<img src="https://skillicons.dev/icons?i=react,ts,fastapi,python&theme=dark" alt="React, TypeScript, FastAPI, Python" />
-
-[Explore repositories ↗](https://github.com/Maxwell343?tab=repositories)
-
-</td>
-</tr>
-</table>
-
+<a href="https://github.com/Maxwell343/Nirogya-AI_Based_Disease_Prediction_and_Early_Warning_System"><img src="./assets/project-nirogya.svg" alt="Nirogya — healthcare prediction and early warning" width="49%"/></a>
+<a href="https://github.com/Maxwell343"><img src="./assets/project-studyos.svg" alt="StudyOS — personal study management and analytics" width="49%"/></a>
+<a href="https://github.com/Maxwell343"><img src="./assets/project-railguard.svg" alt="RailGuard AI — railway defect detection" width="49%"/></a>
+<a href="https://github.com/Maxwell343/CodeRedAI"><img src="./assets/project-codered.svg" alt="CodeRed AI — AI-assisted emergency response" width="49%"/></a>
 </div>
 
+<sub>StudyOS and RailGuard AI repository URLs are currently linked to my profile until their exact public repository slugs are confirmed. Replace those two profile links with the direct repository URLs when ready.</sub>
 
----
+### More from the workshop
 
-## `03` / ENGINEERING TOOLKIT
+- [Annam — Food Rescue Platform](https://github.com/Maxwell343/Annam-foodcrops_rescue_platform)
+- [TransitOps — Logistics & Fleet Command Surface](https://github.com/Maxwell343/TransitOps-Logistics_and_Fleet_Command_Surface)
+- [Soundwave — Musical Instruments Platform](https://github.com/Maxwell343/Soundwave_Musical_Instruments_Platform)
+- [Livify — Home Rental Platform](https://github.com/Maxwell343/Livify--Home_Rental_Platform)
 
-<div align="center">
+## `03 / EXPERIENCE & MILESTONES`
 
-### LANGUAGES
-<img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp&theme=dark" alt="Python, Java, TypeScript, JavaScript, C++"/>
+<img src="./assets/experience.svg" alt="Experience and milestones" width="100%"/>
 
-### AI / ML · BACKEND · FRONTEND
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,fastapi,react,nextjs,tailwind&theme=dark" alt="PyTorch, scikit-learn, FastAPI, React, Next.js, Tailwind CSS"/>
+- **L2 Aerospace — Machine Learning Engineering Intern:** working on ML workflows for hazard and landmine detection, including dataset preparation, experimentation, and evaluation.
+- **Cere Labs — Symphonix industry project:** exploring GPU orchestration, AI inference governance, resource management, and request scheduling.
+- **Smart India Hackathon 2025:** Nirogya selected for the Grand Finale.
+- **Google Developers Group Hackathon:** team placed among the top 12.
 
-### DATABASES · DEVELOPER TOOLS
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github,vscode&theme=dark" alt="MySQL, MongoDB, SQLite, Git, GitHub, VS Code"/>
+## `04 / TOOLCHAIN`
 
-</div>
-
-<details>
-<summary><b>View technologies by category</b></summary>
-
-| Category | Technologies |
+| Layer | Tools |
 |---|---|
-| Languages | Python, Java, TypeScript, JavaScript, SQL, C/C++ |
-| AI / ML | PyTorch, Scikit-learn, CatBoost, YOLO |
-| Backend | FastAPI, REST APIs |
-| Frontend | React, Next.js, Tailwind CSS |
-| Databases | MongoDB, MySQL, SQLite |
-| Tools | Git, GitHub, VS Code |
+| Languages | Python · Java · TypeScript · JavaScript · SQL · C/C++ |
+| ML / Data | scikit-learn · CatBoost · PyTorch · Ultralytics YOLO |
+| Backend | FastAPI · REST APIs |
+| Frontend | React · Next.js · Tailwind CSS |
+| Data stores | MongoDB · MySQL · SQLite · PostgreSQL / Supabase |
+| Workflow | Git · GitHub · VS Code |
 
-<sub>Technologies reflect work across projects; experience depth varies by tool.</sub>
-</details>
-
-## `04` / EXPERIENCE & MILESTONES
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**MACHINE LEARNING ENGINEERING INTERN**  
-L2 Aerospace
-
-Working on ML workflows for hazard and landmine detection using sensor- and image-based data, including dataset preparation, model experimentation, and evaluation.
-
-</td>
-<td width="50%" valign="top">
-
-**INDUSTRY PROJECT**  
-Cere Labs
-
-Exploring engineering challenges around AI inference orchestration, GPU resource management, and request scheduling.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**SMART INDIA HACKATHON 2025**
-
-Nirogya selected for the Grand Finale.
-
-</td>
-<td width="50%" valign="top">
-
-**GOOGLE DEVELOPERS GROUP HACKATHON**
-
-Team placed among the top 12.
-
-</td>
-</tr>
-</table>
-
-## `05` / GITHUB ACTIVITY
+## `05 / ACTIVITY`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Maxwell343&show_icons=true&hide_border=true&bg_color=07110B&title_color=8BFFB0&text_color=E5F4E9&icon_color=8BFFB0&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell343&layout=compact&hide_border=true&bg_color=07110B&title_color=8BFFB0&text_color=E5F4E9" alt="Top languages"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Maxwell343&theme=dark&hide_border=true&background=050907&ring=72FFA7&fire=FFB454&currStreakLabel=72FFA7&sideLabels=91A99A&dates=91A99A)](https://github.com/Maxwell343)
 
-<br/>
-
-<img width="96%" src="https://streak-stats.demolab.com?user=Maxwell343&hide_border=true&background=07110B&ring=8BFFB0&fire=8BFFB0&currStreakLabel=8BFFB0&sideLabels=E5F4E9&currStreakNum=E5F4E9&sideNums=E5F4E9&dates=9BAFA1" alt="GitHub contribution streak"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell343&layout=compact&hide_border=true&bg_color=050907&title_color=72FFA7&text_color=E8F5EC)](https://github.com/Maxwell343?tab=repositories)
 
 </div>
 
-<sub>External stats widgets can occasionally be rate-limited or unavailable. Remove them if they distract from your actual work.</sub>
+<sub>External stats services can be rate-limited or temporarily unavailable. The custom SVG artwork in this profile is stored in this repository and does not depend on those services.</sub>
 
----
+## `06 / CONTACT`
+
+- **Portfolio:** https://ptfl-1-three.vercel.app/
+- **LinkedIn:** https://www.linkedin.com/in/maxwell-mathew-97961b2b7
+- **GitHub:** https://github.com/Maxwell343
+- **Email:** mathew.maxwell2021@gmail.com
 
 <div align="center">
-
-### Build with intent. Measure what matters. Keep improving.
-
-[**Browse my repositories →**](https://github.com/Maxwell343?tab=repositories)
-
-<sub>LESS NOISE. MORE USEFUL WORK. &nbsp; / &nbsp; MAXWELL MATHEW</sub>
-
+<img src="./assets/footer.svg" alt="End of engineering log" width="100%"/>
 </div>
