@@ -24,10 +24,13 @@ My loop is simple: **understand → build → measure → improve.** I value sys
 
 ### `03 / OTHER BUILDS`
 
-- [Annam — Food Rescue Platform](https://github.com/Maxwell343/Annam-foodcrops_rescue_platform)
-- [TransitOps — Logistics & Fleet Command Surface](https://github.com/Maxwell343/TransitOps-Logistics_and_Fleet_Command_Surface)
-- [Soundwave — Musical Instruments Platform](https://github.com/Maxwell343/Soundwave_Musical_Instruments_Platform)
-- [Livify — Home Rental Platform](https://github.com/Maxwell343/Livify--Home_Rental_Platform)
+Annam — Food Rescue Platform An intelligent food rescue ecosystem connecting farmers, NGOs, and logistics partners to reduce food waste through machine learning and real-time dispatching.
+
+TransitOps — Logistics & Fleet Command Surface A fleet management and supply chain platform featuring vehicle tracking, route dispatching, predictive maintenance, and role-based operational management.
+
+Soundwave — Musical Instruments Platform A React-based e-commerce platform for classical Indian musical instruments, featuring an interactive product catalogue and a streamlined shopping experience.
+
+Livify — Home Rental Platform A home rental platform connecting property owners and tenants through property listings, advanced search, and a user-friendly rental experience.
 
 ## `04 / EXPERIENCE & MILESTONES`
 
